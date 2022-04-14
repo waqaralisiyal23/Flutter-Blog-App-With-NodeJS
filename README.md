@@ -4,12 +4,12 @@ This app is developed to learn creating RestAPI and implementing in Flutter App.
 
 ## Screenshots of App
 
-![SS1](ss/ss1.png?raw=true)
-![SS2](ss/ss2.png?raw=true)
-![SS3](ss/ss3.png?raw=true)
-![SS4](ss/ss4.png?raw=true)
-![SS5](ss/ss5.png?raw=true)
-![SS6](ss/ss6.png?raw=true)
+<img src="ss/ss1.png" alt="SS1" width="200"/>
+<img src="ss/ss2.png" alt="SS2" width="200"/>
+<img src="ss/ss3.png" alt="SS3" width="200"/>
+<img src="ss/ss4.png" alt="SS4" width="200"/>
+<img src="ss/ss5.png" alt="SS5" width="200"/>
+<img src="ss/ss6.png" alt="SS6" width="200"/>
 
 ## Backend of App
 
