@@ -6,7 +6,7 @@ import 'package:http/http.dart' as http;
 
 class HttpService {
   String baseUrl =
-      'http://192.168.1.8:3000'; // IP Address of Current Connected Wifi
+      'http://xxx.xxx.x.x:3000'; // IP Address of Current Connected Wifi
 
   final storage = const FlutterSecureStorage();
 
